@@ -1,2 +1,2 @@
 # Realtime_Object_Detection
-Real Time Object Detection using YOLOv3 deep learning algorithm without GPU. And this also works on recorded videos and pictures. 
+Real Time Object Detection using YOLOv3 Deep Learning algorithm for machines without GPU, and this also works on recorded videos and pictures. 
